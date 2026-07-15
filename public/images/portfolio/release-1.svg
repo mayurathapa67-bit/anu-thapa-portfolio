@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#FAF7F2"/>
+  <circle cx="620" cy="120" r="180" fill="#0D7377" opacity="0.10"/><rect x="40" y="380" width="220" height="220" rx="24" fill="#1A1A1A" opacity="0.06"/>
+  <text x="400" y="290" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#1A1A1A" text-anchor="middle">Release Notes</text>
+  <text x="400" y="330" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0D7377" text-anchor="middle" letter-spacing="2">v3</text>
+</svg>

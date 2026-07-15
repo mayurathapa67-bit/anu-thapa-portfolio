@@ -1,0 +1,418 @@
+{
+  "nav": {
+    "logo": "Anu Thapa",
+    "links": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/portfolio"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Anu Thapa",
+    "role": "Technical Writer",
+    "subtitle": "Transforming complex information into clear, user-friendly documentation.",
+    "headline": "Clarity Through Technical Writing",
+    "cta_primary": {
+      "label": "View Documentation",
+      "href": "/portfolio"
+    },
+    "cta_secondary": {
+      "label": "Hire Me",
+      "href": "/contact"
+    },
+    "image": "/images/hero.svg"
+  },
+  "about": {
+    "headline": "Writing that bridges the gap between complexity and understanding.",
+    "bio": "I am a Brisbane-based Technical Writer with a passion for turning dense, technical subject matter into documentation that developers, end users, and stakeholders can actually use. With roots in Butwal, Nepal, I bring a global perspective and a meticulous, research-driven approach to every project. Over the past several years I have documented APIs, SDKs, and enterprise software for product teams across fintech, health-tech, and developer-tooling companies.",
+    "philosophy": "Documentation is a product, not an afterthought. I believe great technical writing respects the reader's time, anticipates their questions, and removes friction from the learning curve. My process blends structured authoring, information architecture, and user empathy to produce documentation that scales with the product.",
+    "expertise": [
+      {
+        "title": "API Documentation",
+        "description": "REST, GraphQL, and WebSocket API references with runnable examples, auth flows, and clear error taxonomy.",
+        "icon": "api"
+      },
+      {
+        "title": "Software Documentation",
+        "description": "Architecture overviews, system design docs, and internal engineering guides built for long-term maintainability.",
+        "icon": "software"
+      },
+      {
+        "title": "User Manuals",
+        "description": "Step-by-step end-user guides, onboarding flows, and contextual help that reduce support tickets.",
+        "icon": "manual"
+      },
+      {
+        "title": "SDK Guides",
+        "description": "Language-specific quickstarts, integration tutorials, and reference docs for developer-facing SDKs.",
+        "icon": "sdk"
+      }
+    ],
+    "experience": [
+      {
+        "company": "FinTech Labs",
+        "role": "Senior Technical Writer",
+        "period": "2023 - Present",
+        "description": "Lead documentation for a payments API used by 200+ integrators. Built a Docs-as-Code pipeline with OpenAPI and CI publishing."
+      },
+      {
+        "company": "HealthBridge Systems",
+        "role": "Technical Writer",
+        "period": "2021 - 2023",
+        "description": "Authored user manuals and release notes for a clinical SaaS platform serving 40+ hospitals across APAC."
+      },
+      {
+        "company": "DevTools Co.",
+        "role": "Documentation Engineer",
+        "period": "2019 - 2021",
+        "description": "Created SDK guides and interactive tutorials for a developer platform; introduced a contribution model for engineering teams."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Certified Professional Technical Communicator",
+        "issuer": "CPTC",
+        "year": "2023"
+      },
+      {
+        "name": "API Documentation Certificate",
+        "issuer": "Write the Docs",
+        "year": "2022"
+      },
+      {
+        "name": "Information Architecture Foundation",
+        "issuer": "IA Institute",
+        "year": "2021"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Markdown",
+        "category": "Authoring",
+        "proficiency": 98
+      },
+      {
+        "name": "Git",
+        "category": "Version Control",
+        "proficiency": 95
+      },
+      {
+        "name": "Confluence",
+        "category": "Collaboration",
+        "proficiency": 92
+      },
+      {
+        "name": "MadCap Flare",
+        "category": "Authoring",
+        "proficiency": 88
+      },
+      {
+        "name": "Adobe FrameMaker",
+        "category": "Authoring",
+        "proficiency": 84
+      },
+      {
+        "name": "Swagger / OpenAPI",
+        "category": "API Tooling",
+        "proficiency": 94
+      },
+      {
+        "name": "Docusaurus",
+        "category": "Static Site",
+        "proficiency": 90
+      },
+      {
+        "name": "Notion",
+        "category": "Collaboration",
+        "proficiency": 93
+      }
+    ],
+    "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784093507/portfolio/yuazgirfffqcvihg4fwg.jpg"
+  },
+  "services": [
+    {
+      "title": "API Documentation",
+      "description": "Complete, accurate, and developer-friendly API references built from OpenAPI specs with runnable examples and auth guidance.",
+      "icon": "api",
+      "price": "From $1,200",
+      "features": [
+        "OpenAPI / Swagger specs",
+        "Authentication flows",
+        "Code samples in 3+ languages",
+        "Error reference & status codes"
+      ]
+    },
+    {
+      "title": "Software Documentation",
+      "description": "Architecture overviews, system design docs, and internal engineering guides that scale with your codebase.",
+      "icon": "software",
+      "price": "From $1,500",
+      "features": [
+        "Architecture diagrams",
+        "System design docs",
+        "Runbooks & playbooks",
+        "Onboarding guides"
+      ]
+    },
+    {
+      "title": "User Guides & Manuals",
+      "description": "Clear, task-oriented documentation that reduces support load and improves product adoption.",
+      "icon": "manual",
+      "price": "From $900",
+      "features": [
+        "Step-by-step tutorials",
+        "Contextual help",
+        "In-app tooltips",
+        "Localization-ready"
+      ]
+    },
+    {
+      "title": "Technical Editing",
+      "description": "A rigorous editorial pass on existing docs for clarity, consistency, and technical accuracy.",
+      "icon": "edit",
+      "price": "From $600",
+      "features": [
+        "Style guide alignment",
+        "Terminology consistency",
+        "Structure & IA review",
+        "Grammar & precision"
+      ]
+    },
+    {
+      "title": "Content Strategy",
+      "description": "A documentation roadmap, information architecture, and contributor workflows for growing teams.",
+      "icon": "strategy",
+      "price": "From $1,800",
+      "features": [
+        "Content audit",
+        "Information architecture",
+        "Docs-as-Code setup",
+        "Contribution model"
+      ]
+    },
+    {
+      "title": "Documentation Audits",
+      "description": "An expert assessment of your docs with a prioritized backlog of improvements and quick wins.",
+      "icon": "audit",
+      "price": "From $750",
+      "features": [
+        "Heuristic evaluation",
+        "Findability audit",
+        "Tone & voice review",
+        "Prioritized roadmap"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "payments-api-reference",
+      "title": "Payments API Reference",
+      "category": "API Documentation",
+      "description": "A complete REST API reference for a payments platform, with authentication, webhooks, and sandbox testing.",
+      "tech_stack": [
+        "REST API",
+        "OpenAPI",
+        "Postman",
+        "JavaScript"
+      ],
+      "content": "## What this reference covers\n\nA complete REST API reference for a payments platform, documenting every endpoint with authentication, idempotency, pagination, and signed webhooks.\n\n## How it is structured\n\n- Every endpoint includes a purpose, required scopes, and request and response schemas\n- Examples are provided in cURL, Node, and Python so integrators can copy and adapt\n- Error codes are documented with remediation guidance, not just a status number\n\n## Why it works\n\nDevelopers consistently complete their first successful call within minutes because the docs treat the happy path and the failure path with equal care.",
+      "client": "FinTech Labs",
+      "published_date": "2024-03-12",
+      "read_time": "8 min read",
+      "featured_image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784094776/portfolio/g1seygupt1usvs8r2g2y.jpg",
+      "download_link": ""
+    },
+    {
+      "id": "sdk-quickstart",
+      "title": "Mobile SDK Quickstart",
+      "category": "SDK Guides",
+      "description": "A multi-language quickstart for a mobile analytics SDK with integration tutorials.",
+      "tech_stack": [
+        "Swift",
+        "Kotlin",
+        "GraphQL",
+        "CI/CD"
+      ],
+      "content": "## Goal\n\nGet a developer from install to first tracked event in under ten minutes.\n\n## What is inside\n\n- Platform-specific setup for Swift and Kotlin\n- A minimal, runnable sample for each core method\n- Clear guidance on initialization, identity, and lifecycle\n\n## Outcome\n\nSDK guides reduce integration time and cut friction-related support tickets by meeting developers where they are.",
+      "client": "DevTools Co.",
+      "published_date": "2024-01-20",
+      "read_time": "6 min read",
+      "featured_image": "/images/portfolio/sdk-1.svg",
+      "download_link": ""
+    },
+    {
+      "id": "clinical-user-manual",
+      "title": "Clinical Platform User Manual",
+      "category": "User Manuals",
+      "description": "An end-to-end user manual for a hospital scheduling system, localized for APAC markets.",
+      "tech_stack": [
+        "MadCap Flare",
+        "Markdown",
+        "DITA"
+      ],
+      "content": "## Audience\n\nClinical schedulers, roster coordinators, and hospital administrators across APAC.\n\n## Approach\n\n- Task-based topics mapped to real workflows\n- Plain-language steps validated with end users\n- Localization-ready structure for regional variants\n\n## Result\n\nA manual that staff can trust during a busy shift, not just during training.",
+      "client": "HealthBridge Systems",
+      "published_date": "2023-09-05",
+      "read_time": "12 min read",
+      "featured_image": "/images/portfolio/manual-1.svg",
+      "download_link": ""
+    },
+    {
+      "id": "v3-release-notes",
+      "title": "Platform v3 Release Notes",
+      "category": "Release Notes",
+      "description": "Structured release notes communicating breaking changes, migrations, and deprecations.",
+      "tech_stack": [
+        "Markdown",
+        "Git",
+        "Changelog"
+      ],
+      "content": "## What changed\n\nThis release separates breaking changes from enhancements so teams can plan upgrades confidently.\n\n## Included\n\n- Breaking changes with before and after migration steps\n- New capabilities and deprecations with timelines\n- A consolidated upgrade checklist\n\n## Why it matters\n\nClear release notes turn a risky upgrade into a managed project.",
+      "client": "FinTech Labs",
+      "published_date": "2024-05-01",
+      "read_time": "4 min read",
+      "featured_image": "/images/portfolio/release-1.svg",
+      "download_link": ""
+    },
+    {
+      "id": "knowledge-base",
+      "title": "Support Knowledge Base",
+      "category": "Knowledge Base Articles",
+      "description": "A searchable knowledge base that cut support tickets by 30% for a SaaS product.",
+      "tech_stack": [
+        "Confluence",
+        "Zendesk",
+        "Intercom"
+      ],
+      "content": "## Purpose\n\nA searchable knowledge base that deflects repetitive support questions.\n\n## How it is built\n\n- A consistent article template and metadata taxonomy\n- Troubleshooting articles written from real tickets\n- Links to deeper docs where needed\n\n## Impact\n\nSupport tickets dropped by 30 percent after launch.",
+      "client": "HealthBridge Systems",
+      "published_date": "2023-11-18",
+      "read_time": "5 min read",
+      "featured_image": "/images/portfolio/kb-1.svg",
+      "download_link": ""
+    },
+    {
+      "id": "graphql-explorer",
+      "title": "GraphQL API Explorer Guide",
+      "category": "API Documentation",
+      "description": "Interactive documentation for a GraphQL gateway with query examples and schema reference.",
+      "tech_stack": [
+        "GraphQL",
+        "TypeScript",
+        "Apollo"
+      ],
+      "content": "## Overview\n\nInteractive documentation for a GraphQL gateway, schema-first and executable.\n\n## Contents\n\n- A query explorer with runnable examples\n- Resolver-level notes for internal and external consumers\n- A typed schema reference generated from the source\n\n## Benefit\n\nConsumers explore and validate queries without leaving the browser.",
+      "client": "DevTools Co.",
+      "published_date": "2024-02-14",
+      "read_time": "7 min read",
+      "featured_image": "/images/portfolio/api-2.svg",
+      "download_link": ""
+    }
+  ],
+  "blog": [
+    {
+      "id": "docs-as-code",
+      "title": "Why Docs-as-Code Is the Future of Technical Writing",
+      "excerpt": "Treating documentation like softwareâ€”versioned, reviewed, and shipped in CIâ€”unlocks quality and speed.",
+      "content": "Docs-as-Code is the practice of writing, reviewing, and shipping documentation with the same tooling you use for software.\n\n## Why it matters\n\nTreating docs as code closes the gap between what the product does and what you say it does. When documentation lives next to the code, it is versioned, reviewable, and testable.\n\n- Fewer stale pages, because docs fail CI when examples break\n- Faster reviews, because writers and engineers collaborate in the same workflow\n- Reusable content, authored in Markdown or AsciiDoc\n\n## How to start without overwhelming your team\n\nYou do not need a perfect pipeline on day one. Begin with three small moves:\n\n- Move docs into the repository alongside code\n- Adopt a linter such as Vale or markdownlint in CI\n- Publish with a static site generator like Docusaurus or VitePress\n\n## Common pitfalls\n\nThe biggest failure mode is tooling first, culture second. Win hearts with a single high-value doc set before automating everything.",
+      "published_date": "2024-04-10",
+      "read_time": "6 min read",
+      "category": "Best Practices",
+      "featured_image": "/images/blog/docs-as-code.svg"
+    },
+    {
+      "id": "api-doc-trends",
+      "title": "2024 Trends in API Documentation",
+      "excerpt": "From AI-assisted authoring to OpenAPI-driven portals, here is what is shaping API docs this year.",
+      "content": "API documentation in 2024 is no longer a static reference pasted at the bottom of a README. It is an interactive product that developers judge before they ever call your endpoint.\n\n## Interactive, not static\n\nOpenAPI-driven portals now generate try-it-out consoles, client SDKs, and changelogs automatically. If your API ships without a live explorer, you are losing evaluators at the door.\n\n## AI-assisted authoring\n\nLarge language models are changing the first draft. Writers use them to expand terse parameter tables into plain-language explanations, then apply judgment and accuracy reviews.\n\n- Use AI to draft, never to publish unverified\n- Keep a human in the loop for security and correctness\n- Treat generated examples as code: test them\n\n## What stays constant\n\nNo matter the tooling, the fundamentals hold: accurate request and response samples, honest error documentation, and authentication that a beginner can actually follow.",
+      "published_date": "2024-03-02",
+      "read_time": "5 min read",
+      "category": "Trends",
+      "featured_image": "/images/blog/api-trends.svg"
+    },
+    {
+      "id": "tooling-review",
+      "title": "A Practical Review of Modern Authoring Tools",
+      "excerpt": "Markdown, Docusaurus, MadCap Flare, or Confluence? A field guide to picking the right tool.",
+      "content": "Choosing documentation tooling is a decision about your audience and your team, not about which product won a popularity contest. Here is a practical field guide.\n\n## Markdown plus a static site generator\n\nBest for: developer-focused docs, open-source projects, and teams comfortable in Git.\n\n- Pros: fast, portable, cheap, version-controlled\n- Cons: limited enterprise features, you build the CMS yourself\n\n## Docusaurus\n\nBest for: product docs that need versioning and i18n out of the box.\n\n- Pros: React-based, great search, MDX support\n- Cons: heavier than plain Markdown, build step required\n\n## MadCap Flare\n\nBest for: large regulated manuals and single-source publishing to PDF and HTML.\n\n- Pros: powerful reuse, conditional content, PDF output\n- Cons: commercial license, steeper learning curve\n\n## Confluence\n\nBest for: internal engineering and ops documentation.\n\n- Pros: collaborative, permissioned, integrates with Jira\n- Cons: becomes a maze without strong information architecture\n\n## The honest takeaway\n\nPick the simplest tool your audience can consume and your team will actually maintain. Consistency beats sophistication.",
+      "published_date": "2024-02-01",
+      "read_time": "8 min read",
+      "category": "Tools",
+      "featured_image": "/images/blog/tooling.svg"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Anu transformed our fragmented API docs into a developer experience our partners rave about. Support tickets dropped noticeably.",
+      "name": "Daniel Reyes",
+      "role": "Head of Engineering",
+      "company": "FinTech Labs",
+      "avatar": "/images/testimonials/daniel.svg"
+    },
+    {
+      "quote": "The clearest user manuals we have ever shipped. Anu listens, researches, and delivers with remarkable precision.",
+      "name": "Priya Nair",
+      "role": "Product Lead",
+      "company": "HealthBridge Systems",
+      "avatar": "/images/testimonials/priya.svg"
+    },
+    {
+      "quote": "Anu's SDK guides cut our integration time in half. A true professional who understands developers.",
+      "name": "Marcus Lee",
+      "role": "Developer Advocate",
+      "company": "DevTools Co.",
+      "avatar": "/images/testimonials/marcus.svg"
+    },
+    {
+      "quote": "Working with Anu felt like adding a senior engineer who also happens to write beautifully. Highly recommended.",
+      "name": "Sofia Almeida",
+      "role": "CTO",
+      "company": "PayStream",
+      "avatar": "/images/testimonials/sofia.svg"
+    }
+  ],
+  "contact": {
+    "email": "anu.australia01@gmail.com",
+    "phone": "+61 483 915 544",
+    "location": "Brisbane, Australia / Butwal, Nepal",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/anuthapa"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/anuthapa"
+      },
+      {
+        "platform": "X",
+        "url": "https://x.com/anuthapa"
+      },
+      {
+        "platform": "Medium",
+        "url": "https://medium.com/@anuthapa"
+      }
+    ]
+  }
+}

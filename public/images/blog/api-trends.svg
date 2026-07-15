@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#FAF7F2"/>
+  <circle cx="120" cy="520" r="200" fill="#0D7377" opacity="0.10"/><rect x="520" y="60" width="180" height="180" rx="24" fill="#1A1A1A" opacity="0.06"/>
+  <text x="400" y="290" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#1A1A1A" text-anchor="middle">API Trends</text>
+  <text x="400" y="330" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0D7377" text-anchor="middle" letter-spacing="2">2024</text>
+</svg>
