@@ -227,7 +227,7 @@
   "portfolio": [
     {
       "id": "payments-api-reference",
-      "title": "Payments API Reference",
+      "title": "Payments API Reference ",
       "category": "API Documentation",
       "description": "A complete REST API reference for a payments platform, with authentication, webhooks, and sandbox testing.",
       "tech_stack": [
@@ -368,7 +368,7 @@
       "name": "Daniel Reyes",
       "role": "Head of Engineering",
       "company": "FinTech Labs",
-      "avatar": "/images/testimonials/daniel.svg"
+      "avatar": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784098987/portfolio/abfroiu4qwdrks317ynl.png"
     },
     {
       "quote": "The clearest user manuals we have ever shipped. Anu listens, researches, and delivers with remarkable precision.",
