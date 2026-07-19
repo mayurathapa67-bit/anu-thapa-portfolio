@@ -41,7 +41,7 @@
       "label": "Hire Me",
       "href": "/contact"
     },
-    "image": "/images/hero.svg"
+    "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784432913/portfolio/eo9eedrk4reambrkczy9.png"
   },
   "about": {
     "headline": "Writing that bridges the gap between complexity and understanding.",
