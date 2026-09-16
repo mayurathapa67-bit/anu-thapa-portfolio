@@ -226,107 +226,16 @@
   ],
   "portfolio": [
     {
-      "id": "payments-api-reference",
-      "title": "Payments API Reference ",
-      "category": "API Documentation",
-      "description": "A complete REST API reference for a payments platform, with authentication, webhooks, and sandbox testing.",
-      "tech_stack": [
-        "REST API",
-        "OpenAPI",
-        "Postman",
-        "JavaScript"
-      ],
-      "content": "## What this reference covers\n\nA complete REST API reference for a payments platform, documenting every endpoint with authentication, idempotency, pagination, and signed webhooks.\n\n## How it is structured\n\n- Every endpoint includes a purpose, required scopes, and request and response schemas\n- Examples are provided in cURL, Node, and Python so integrators can copy and adapt\n- Error codes are documented with remediation guidance, not just a status number\n\n## Why it works\n\nDevelopers consistently complete their first successful call within minutes because the docs treat the happy path and the failure path with equal care.",
-      "client": "FinTech Labs",
-      "published_date": "2024-03-12",
-      "read_time": "8 min read",
-      "featured_image": "/images/portfolio/api-1.svg",
-      "download_link": ""
-    },
-    {
-      "id": "sdk-quickstart",
-      "title": "Mobile SDK Quickstart",
-      "category": "SDK Guides",
-      "description": "A multi-language quickstart for a mobile analytics SDK with integration tutorials.",
-      "tech_stack": [
-        "Swift",
-        "Kotlin",
-        "GraphQL",
-        "CI/CD"
-      ],
-      "content": "## Goal\n\nGet a developer from install to first tracked event in under ten minutes.\n\n## What is inside\n\n- Platform-specific setup for Swift and Kotlin\n- A minimal, runnable sample for each core method\n- Clear guidance on initialization, identity, and lifecycle\n\n## Outcome\n\nSDK guides reduce integration time and cut friction-related support tickets by meeting developers where they are.",
-      "client": "DevTools Co.",
-      "published_date": "2024-01-20",
-      "read_time": "6 min read",
-      "featured_image": "/images/portfolio/sdk-1.svg",
-      "download_link": ""
-    },
-    {
-      "id": "clinical-user-manual",
-      "title": "Clinical Platform User Manual",
-      "category": "User Manuals",
-      "description": "An end-to-end user manual for a hospital scheduling system, localized for APAC markets.",
-      "tech_stack": [
-        "MadCap Flare",
-        "Markdown",
-        "DITA"
-      ],
-      "content": "## Audience\n\nClinical schedulers, roster coordinators, and hospital administrators across APAC.\n\n## Approach\n\n- Task-based topics mapped to real workflows\n- Plain-language steps validated with end users\n- Localization-ready structure for regional variants\n\n## Result\n\nA manual that staff can trust during a busy shift, not just during training.",
-      "client": "HealthBridge Systems",
-      "published_date": "2023-09-05",
-      "read_time": "12 min read",
-      "featured_image": "/images/portfolio/manual-1.svg",
-      "download_link": ""
-    },
-    {
-      "id": "v3-release-notes",
-      "title": "Platform v3 Release Notes",
-      "category": "Release Notes",
-      "description": "Structured release notes communicating breaking changes, migrations, and deprecations.",
-      "tech_stack": [
-        "Markdown",
-        "Git",
-        "Changelog"
-      ],
-      "content": "## What changed\n\nThis release separates breaking changes from enhancements so teams can plan upgrades confidently.\n\n## Included\n\n- Breaking changes with before and after migration steps\n- New capabilities and deprecations with timelines\n- A consolidated upgrade checklist\n\n## Why it matters\n\nClear release notes turn a risky upgrade into a managed project.",
-      "client": "FinTech Labs",
-      "published_date": "2024-05-01",
-      "read_time": "4 min read",
-      "featured_image": "/images/portfolio/release-1.svg",
-      "download_link": ""
-    },
-    {
-      "id": "knowledge-base",
-      "title": "Support Knowledge Base",
-      "category": "Knowledge Base Articles",
-      "description": "A searchable knowledge base that cut support tickets by 30% for a SaaS product.",
-      "tech_stack": [
-        "Confluence",
-        "Zendesk",
-        "Intercom"
-      ],
-      "content": "## Purpose\n\nA searchable knowledge base that deflects repetitive support questions.\n\n## How it is built\n\n- A consistent article template and metadata taxonomy\n- Troubleshooting articles written from real tickets\n- Links to deeper docs where needed\n\n## Impact\n\nSupport tickets dropped by 30 percent after launch.",
-      "client": "HealthBridge Systems",
-      "published_date": "2023-11-18",
+      "id": "ae14b535-8ee0-4083-a4ab-1813bc18a725",
+      "title": "Academic Assignment & Report Support",
+      "category": "Academic Writing",
+      "description": "Support with university assignments and academic reports, including structure, research, academic writing, referencing, formatting and final presentation.",
+      "tech_stack": [],
+      "content": "Academic assignment support focused on clear structure, relevant research, referencing and professional formatting.",
+      "client": "University Student",
+      "published_date": "2026-09-16",
       "read_time": "5 min read",
-      "featured_image": "/images/portfolio/kb-1.svg",
-      "download_link": ""
-    },
-    {
-      "id": "graphql-explorer",
-      "title": "GraphQL API Explorer Guide",
-      "category": "API Documentation",
-      "description": "Interactive documentation for a GraphQL gateway with query examples and schema reference.",
-      "tech_stack": [
-        "GraphQL",
-        "TypeScript",
-        "Apollo"
-      ],
-      "content": "## Overview\n\nInteractive documentation for a GraphQL gateway, schema-first and executable.\n\n## Contents\n\n- A query explorer with runnable examples\n- Resolver-level notes for internal and external consumers\n- A typed schema reference generated from the source\n\n## Benefit\n\nConsumers explore and validate queries without leaving the browser.",
-      "client": "DevTools Co.",
-      "published_date": "2024-02-14",
-      "read_time": "7 min read",
-      "featured_image": "/images/portfolio/api-2.svg",
+      "featured_image": "",
       "download_link": ""
     }
   ],
