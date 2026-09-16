@@ -78,7 +78,38 @@
       }
     ],
     "certifications": [],
-    "tools": [],
+    "tools": [
+      {
+        "name": "Microsoft Word",
+        "category": "Document Editing",
+        "proficiency": 95
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "category": "Presentation Design",
+        "proficiency": 95
+      },
+      {
+        "name": "Canva",
+        "category": "Design & Content",
+        "proficiency": 95
+      },
+      {
+        "name": "Mendeley",
+        "category": "Referencing & Research",
+        "proficiency": 100
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "Data & Documents",
+        "proficiency": 95
+      },
+      {
+        "name": "Google Scholar",
+        "category": "Academic Research",
+        "proficiency": 95
+      }
+    ],
     "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784433007/portfolio/mqeykw7zenpun3qfilfo.png"
   },
   "services": [
