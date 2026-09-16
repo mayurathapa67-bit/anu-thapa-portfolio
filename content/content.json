@@ -71,83 +71,14 @@
     ],
     "experience": [
       {
-        "company": "FinTech Labs",
-        "role": "Senior Technical Writer",
-        "period": "2023 - Present",
-        "description": "Lead documentation for a payments API used by 200+ integrators. Built a Docs-as-Code pipeline with OpenAPI and CI publishing."
-      },
-      {
-        "company": "HealthBridge Systems",
-        "role": "Technical Writer",
-        "period": "2021 - 2023",
-        "description": "Authored user manuals and release notes for a clinical SaaS platform serving 40+ hospitals across APAC."
-      },
-      {
-        "company": "DevTools Co.",
-        "role": "Documentation Engineer",
-        "period": "2019 - 2021",
-        "description": "Created SDK guides and interactive tutorials for a developer platform; introduced a contribution model for engineering teams."
+        "company": "Independent",
+        "role": "Academic Content Writer & Student Support Specialist",
+        "period": "2021 – Present",
+        "description": "Providing comprehensive academic and professional content support to students, including assignments, reports, research, referencing, proofreading, editing, formatting, PowerPoint presentations, Canva designs, CVs and other professional documents. I work closely with students to understand their requirements, deadlines and budget, while providing friendly, reliable and personalised support. Experienced in Microsoft Word, PowerPoint, Excel, Mendeley, Canva, Google Docs and Google Scholar."
       }
     ],
-    "certifications": [
-      {
-        "name": "Certified Professional Technical Communicator",
-        "issuer": "CPTC",
-        "year": "2023"
-      },
-      {
-        "name": "API Documentation Certificate",
-        "issuer": "Write the Docs",
-        "year": "2022"
-      },
-      {
-        "name": "Information Architecture Foundation",
-        "issuer": "IA Institute",
-        "year": "2021"
-      }
-    ],
-    "tools": [
-      {
-        "name": "Markdown",
-        "category": "Authoring",
-        "proficiency": 98
-      },
-      {
-        "name": "Git",
-        "category": "Version Control",
-        "proficiency": 95
-      },
-      {
-        "name": "Confluence",
-        "category": "Collaboration",
-        "proficiency": 92
-      },
-      {
-        "name": "MadCap Flare",
-        "category": "Authoring",
-        "proficiency": 88
-      },
-      {
-        "name": "Adobe FrameMaker",
-        "category": "Authoring",
-        "proficiency": 84
-      },
-      {
-        "name": "Swagger / OpenAPI",
-        "category": "API Tooling",
-        "proficiency": 94
-      },
-      {
-        "name": "Docusaurus",
-        "category": "Static Site",
-        "proficiency": 90
-      },
-      {
-        "name": "Notion",
-        "category": "Collaboration",
-        "proficiency": 93
-      }
-    ],
+    "certifications": [],
+    "tools": [],
     "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784433007/portfolio/mqeykw7zenpun3qfilfo.png"
   },
   "services": [
