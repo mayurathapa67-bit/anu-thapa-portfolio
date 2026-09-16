@@ -250,6 +250,19 @@
       "read_time": "5 min read",
       "featured_image": "",
       "download_link": ""
+    },
+    {
+      "id": "0abaf033-7b76-4f6d-b9dd-3f6a16d87da3",
+      "title": "Research & Referencing Support",
+      "category": "Research & Referencing",
+      "description": "Research and referencing support for academic work, including finding relevant sources, organising references, formatting citations and preparing reference lists according to the required academic style.",
+      "tech_stack": [],
+      "content": "Research and referencing support designed to help students organise credible sources and present their academic work clearly.",
+      "client": "Bachelor’s Student",
+      "published_date": "2026-09-16",
+      "read_time": "5 min read",
+      "featured_image": "",
+      "download_link": ""
     }
   ],
   "blog": [
