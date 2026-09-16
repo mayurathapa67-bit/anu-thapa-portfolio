@@ -364,32 +364,25 @@
   ],
   "testimonials": [
     {
-      "quote": "Anu transformed our fragmented API docs into a developer experience our partners rave about. Support tickets dropped noticeably.",
-      "name": "Daniel Reyes",
-      "role": "Head of Engineering",
-      "company": "FinTech Labs",
+      "quote": "“I’ve been working with Anu for more than a year now, and she has become my go-to person whenever I need academic support. From small formatting issues to bigger assignments, she is always willing to help. She is friendly, patient and understands my requirements really well. I’ve always felt comfortable discussing my work and budget with her.”",
+      "name": "Sarah",
+      "role": "University Student",
+      "company": "Student ",
       "avatar": ""
     },
     {
-      "quote": "The clearest user manuals we have ever shipped. Anu listens, researches, and delivers with remarkable precision.",
-      "name": "Priya Nair",
-      "role": "Product Lead",
-      "company": "HealthBridge Systems",
-      "avatar": "/images/testimonials/priya.svg"
+      "quote": "“I contacted Anu when I was completely stuck with a report and wasn’t sure how to organise it. She took the time to understand what I was trying to do and helped me work through it step by step. I really liked how approachable she was and how quickly she responded to my questions. It made the whole process much less stressful.”",
+      "name": "Rohan ",
+      "role": "International Student",
+      "company": "University Student",
+      "avatar": ""
     },
     {
-      "quote": "Anu's SDK guides cut our integration time in half. A true professional who understands developers.",
-      "name": "Marcus Lee",
-      "role": "Developer Advocate",
-      "company": "DevTools Co.",
-      "avatar": "/images/testimonials/marcus.svg"
-    },
-    {
-      "quote": "Working with Anu felt like adding a senior engineer who also happens to write beautifully. Highly recommended.",
-      "name": "Sofia Almeida",
-      "role": "CTO",
-      "company": "PayStream",
-      "avatar": "/images/testimonials/sofia.svg"
+      "quote": "“I’ve used Anu’s support for different types of university work, including presentations, reports and referencing. Every time, she has been professional and pays attention to the little details. I especially appreciate that she doesn’t make things complicated and is always open to changes when I have specific requirements. It’s been a really positive experience working with her.”",
+      "name": "Priya",
+      "role": "Bachelor’s Student",
+      "company": "Higher Education",
+      "avatar": ""
     }
   ],
   "contact": {
