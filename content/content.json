@@ -30,15 +30,15 @@
   },
   "hero": {
     "title": "Anu Thapa",
-    "role": "Technical Writer",
-    "subtitle": "Transforming complex information into clear, user-friendly documentation.",
-    "headline": "Clarity Through Technical Writing",
+    "role": "Academic Writer & Research Support Specialist",
+    "subtitle": "Supporting clear, structured and professionally presented academic work through research, writing and careful attention to detail.",
+    "headline": "Turning Research & Ideas Into Clear Academic Work",
     "cta_primary": {
-      "label": "View Documentation",
+      "label": "View My Work",
       "href": "/portfolio"
     },
     "cta_secondary": {
-      "label": "Hire Me",
+      "label": "Get in Touch",
       "href": "/contact"
     },
     "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784432913/portfolio/eo9eedrk4reambrkczy9.png"
