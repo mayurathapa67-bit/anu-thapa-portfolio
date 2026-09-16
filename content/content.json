@@ -332,34 +332,24 @@
   ],
   "blog": [
     {
-      "id": "docs-as-code",
-      "title": "Why Docs-as-Code Is the Future of Technical Writing",
-      "excerpt": "Treating documentation like softwareâ€”versioned, reviewed, and shipped in CIâ€”unlocks quality and speed.",
-      "content": "Docs-as-Code is the practice of writing, reviewing, and shipping documentation with the same tooling you use for software.\n\n## Why it matters\n\nTreating docs as code closes the gap between what the product does and what you say it does. When documentation lives next to the code, it is versioned, reviewable, and testable.\n\n- Fewer stale pages, because docs fail CI when examples break\n- Faster reviews, because writers and engineers collaborate in the same workflow\n- Reusable content, authored in Markdown or AsciiDoc\n\n## How to start without overwhelming your team\n\nYou do not need a perfect pipeline on day one. Begin with three small moves:\n\n- Move docs into the repository alongside code\n- Adopt a linter such as Vale or markdownlint in CI\n- Publish with a static site generator like Docusaurus or VitePress\n\n## Common pitfalls\n\nThe biggest failure mode is tooling first, culture second. Win hearts with a single high-value doc set before automating everything.",
-      "published_date": "2024-04-10",
-      "read_time": "6 min read",
-      "category": "Best Practices",
-      "featured_image": "/images/blog/docs-as-code.svg"
-    },
-    {
-      "id": "api-doc-trends",
-      "title": "2024 Trends in API Documentation",
-      "excerpt": "From AI-assisted authoring to OpenAPI-driven portals, here is what is shaping API docs this year.",
-      "content": "API documentation in 2024 is no longer a static reference pasted at the bottom of a README. It is an interactive product that developers judge before they ever call your endpoint.\n\n## Interactive, not static\n\nOpenAPI-driven portals now generate try-it-out consoles, client SDKs, and changelogs automatically. If your API ships without a live explorer, you are losing evaluators at the door.\n\n## AI-assisted authoring\n\nLarge language models are changing the first draft. Writers use them to expand terse parameter tables into plain-language explanations, then apply judgment and accuracy reviews.\n\n- Use AI to draft, never to publish unverified\n- Keep a human in the loop for security and correctness\n- Treat generated examples as code: test them\n\n## What stays constant\n\nNo matter the tooling, the fundamentals hold: accurate request and response samples, honest error documentation, and authentication that a beginner can actually follow.",
-      "published_date": "2024-03-02",
+      "id": "235a3da4-5705-49ad-ab12-e4ccb5213af9",
+      "title": "How to Structure a University Assignment: A Simple Guide",
+      "excerpt": "Not sure how to start your university assignment? This simple guide explains how to organise your introduction, body paragraphs, conclusion and references.",
+      "content": " How to Structure a University Assignment\n\nStarting a university assignment can be challenging, especially when you are not sure where to begin. A clear structure can help you organise your ideas and present your work in a professional way.\n\n1. Understand the Assignment Question\n\nBefore you start writing, carefully read the assessment question and instructions. Identify the main topic, key requirements, word count and any specific questions you need to answer.\n\n2. Write Your Introduction\n\nThe introduction gives the reader an overview of your assignment. Introduce the topic, provide some background information and briefly explain what will be discussed.\n\n3. Organise Your Main Body\n\nThe main body contains your ideas, arguments and supporting evidence. Each paragraph should focus on one main idea.\n\n- Start with a clear topic sentence.\n- Explain your main point.\n- Support your discussion with relevant academic sources.\n- Link your discussion back to the assignment question.\n\n4. Write Your Conclusion\n\nThe conclusion summarises the main points discussed in your assignment. Do not introduce completely new information. Instead, bring your key ideas together and provide a clear closing statement.\n\n5. Check Your Referencing\n\nMake sure your sources are correctly cited throughout your assignment. Check that your in-text citations match your reference list and follow the referencing style required by your institution.\n\n Final Check Before Submission\n\nBefore submitting your assignment, check your:\n\n- Word count\n- Grammar and spelling\n- Paragraph structure\n- Formatting\n- In-text citations\n- Reference list\n- Assessment requirements\n\nTaking a few minutes to review your work can help you identify mistakes and make your assignment clearer and more organised.",
+      "published_date": "2026-09-16",
       "read_time": "5 min read",
-      "category": "Trends",
-      "featured_image": "/images/blog/api-trends.svg"
+      "category": "Student Tips",
+      "featured_image": ""
     },
     {
-      "id": "tooling-review",
-      "title": "A Practical Review of Modern Authoring Tools",
-      "excerpt": "Markdown, Docusaurus, MadCap Flare, or Confluence? A field guide to picking the right tool.",
-      "content": "Choosing documentation tooling is a decision about your audience and your team, not about which product won a popularity contest. Here is a practical field guide.\n\n## Markdown plus a static site generator\n\nBest for: developer-focused docs, open-source projects, and teams comfortable in Git.\n\n- Pros: fast, portable, cheap, version-controlled\n- Cons: limited enterprise features, you build the CMS yourself\n\n## Docusaurus\n\nBest for: product docs that need versioning and i18n out of the box.\n\n- Pros: React-based, great search, MDX support\n- Cons: heavier than plain Markdown, build step required\n\n## MadCap Flare\n\nBest for: large regulated manuals and single-source publishing to PDF and HTML.\n\n- Pros: powerful reuse, conditional content, PDF output\n- Cons: commercial license, steeper learning curve\n\n## Confluence\n\nBest for: internal engineering and ops documentation.\n\n- Pros: collaborative, permissioned, integrates with Jira\n- Cons: becomes a maze without strong information architecture\n\n## The honest takeaway\n\nPick the simplest tool your audience can consume and your team will actually maintain. Consistency beats sophistication.",
-      "published_date": "2024-02-01",
-      "read_time": "8 min read",
-      "category": "Tools",
-      "featured_image": "/images/blog/tooling.svg"
+      "id": "9f224113-f3ab-4f7b-93f1-d1ca981aa4df",
+      "title": "5 Common Assignment Mistakes Students Should Avoid",
+      "excerpt": "Small mistakes can affect the quality of an assignment. Here are five common problems students should check before submitting their work.",
+      "content": " 5 Common Assignment Mistakes Students Should Avoid\n\nWriting an assignment involves more than simply completing the required word count. Small mistakes in structure, research or formatting can affect the overall quality of your work.\n\n 1. Not Understanding the Question\n\nOne of the most common mistakes is starting to write without fully understanding the assessment question. Take time to identify what the question is asking and make sure your discussion stays focused on it.\n\n 2. Poor Paragraph Structure\n\nA good paragraph should focus on one main idea. Start with a clear topic sentence, explain the idea and support it with relevant evidence or examples.\n\n3. Using Weak Sources\n\nAcademic assignments usually require reliable and relevant sources. Avoid depending only on random websites or information that does not directly support your discussion.\n\n 4. Incorrect Referencing\n\nMissing citations or inconsistent referencing can create problems. Always check your in-text citations and reference list before submitting your work.\n\n 5. Leaving Everything Until the Last Minute\n\nWaiting until the final hours can make it difficult to proofread and improve your work. If possible, give yourself enough time to review your assignment before submission.\n\n Final Check\n\nBefore submitting your assignment, take a few minutes to check the assessment requirements, structure, grammar, references, formatting and word count.\n\nA careful final review can help you catch simple mistakes and make your work more organised and professional.",
+      "published_date": "2026-09-18",
+      "read_time": "4 min read",
+      "category": "Student Tips",
+      "featured_image": ""
     }
   ],
   "testimonials": [
