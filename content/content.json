@@ -398,10 +398,6 @@
     "location": "Brisbane, Australia / Butwal, Nepal",
     "socials": [
       {
-        "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/anuthapa"
-      },
-      {
         "platform": "GitHub",
         "url": "https://github.com/anuthapa"
       },
@@ -412,6 +408,10 @@
       {
         "platform": "Medium",
         "url": "https://medium.com/@anuthapa"
+      },
+      {
+        "platform": "linkedin ",
+        "url": "https://www.linkedin.com/feed/"
       }
     ]
   }
