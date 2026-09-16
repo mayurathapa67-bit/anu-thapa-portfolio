@@ -44,29 +44,29 @@
     "image": "https://res.cloudinary.com/tw19fpkk/image/upload/v1784432913/portfolio/eo9eedrk4reambrkczy9.png"
   },
   "about": {
-    "headline": "Writing that bridges the gap between complexity and understanding.",
-    "bio": "I am a Brisbane-based Technical Writer with a passion for turning dense, technical subject matter into documentation that developers, end users, and stakeholders can actually use. With roots in Butwal, Nepal, I bring a global perspective and a meticulous, research-driven approach to every project. Over the past several years I have documented APIs, SDKs, and enterprise software for product teams across fintech, health-tech, and developer-tooling companies.",
-    "philosophy": "Documentation is a product, not an afterthought. I believe great technical writing respects the reader's time, anticipates their questions, and removes friction from the learning curve. My process blends structured authoring, information architecture, and user empathy to produce documentation that scales with the product.",
+    "headline": "Supporting thoughtful research through clear, structured and professionally presented academic work.",
+    "bio": "I provide academic writing and research support for students and professionals, helping transform complex ideas, research and information into clear, well-structured documents. My approach focuses on careful research, logical organisation, appropriate referencing and professional presentation. From research and written reports to presentations and supporting academic documents, I help make the process clearer, more organised and manageable.",
+    "philosophy": "Good academic work begins with understanding. I believe every piece of academic writing should be clear, organised and supported by credible research. My approach combines attention to detail, structured thinking and careful presentation to help develop work that is meaningful, professional and aligned with academic requirements.",
     "expertise": [
       {
-        "title": "API Documentation",
-        "description": "REST, GraphQL, and WebSocket API references with runnable examples, auth flows, and clear error taxonomy.",
-        "icon": "api"
+        "title": "Academic Writing Support",
+        "description": "Support with developing clear, structured and professionally presented academic documents, with attention to requirements and overall organisation.",
+        "icon": "edit"
       },
       {
-        "title": "Software Documentation",
-        "description": "Architecture overviews, system design docs, and internal engineering guides built for long-term maintainability.",
-        "icon": "software"
+        "title": "Research & Report Development",
+        "description": "Research support focused on organising information, developing logical content and presenting ideas clearly within reports and academic projects.",
+        "icon": "research"
       },
       {
-        "title": "User Manuals",
-        "description": "Step-by-step end-user guides, onboarding flows, and contextual help that reduce support tickets.",
-        "icon": "manual"
+        "title": "Referencing & Source Support",
+        "description": "Assistance with academic sources, in-text citations, reference lists and consistent application of required referencing styles.",
+        "icon": "book"
       },
       {
-        "title": "SDK Guides",
-        "description": "Language-specific quickstarts, integration tutorials, and reference docs for developer-facing SDKs.",
-        "icon": "sdk"
+        "title": "Editing & Presentation",
+        "description": "Reviewing documents for clarity, structure, grammar, formatting and professional presentation to create polished final work.",
+        "icon": "edit"
       }
     ],
     "experience": [
