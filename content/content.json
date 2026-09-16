@@ -395,7 +395,7 @@
   "contact": {
     "email": "anu.australia01@gmail.com",
     "phone": "+61 483 915 564",
-    "location": "Brisbane, Australia / Butwal, Nepal",
+    "location": "Brisbane, Australia ",
     "socials": [
       {
         "platform": "GitHub",
@@ -408,10 +408,6 @@
       {
         "platform": "Medium",
         "url": "https://medium.com/@anuthapa"
-      },
-      {
-        "platform": "linkedin ",
-        "url": "https://www.linkedin.com/feed/"
       }
     ]
   }
