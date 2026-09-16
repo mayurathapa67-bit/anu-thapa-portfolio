@@ -396,19 +396,6 @@
     "email": "anu.australia01@gmail.com",
     "phone": "+61 483 915 564",
     "location": "Brisbane, Australia ",
-    "socials": [
-      {
-        "platform": "GitHub",
-        "url": "https://github.com/anuthapa"
-      },
-      {
-        "platform": "X",
-        "url": "https://x.com/anuthapa"
-      },
-      {
-        "platform": "Medium",
-        "url": "https://medium.com/@anuthapa"
-      }
-    ]
+    "socials": []
   }
 }
