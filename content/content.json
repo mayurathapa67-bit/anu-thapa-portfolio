@@ -221,6 +221,11 @@
     "email": "anu.australia01@gmail.com",
     "phone": "+61 483 915 564",
     "location": "Brisbane, Australia ",
-    "socials": []
+    "socials": [
+      {
+        "platform": "Whatsapp ",
+        "url": "https://web.whatsapp.com/"
+      }
+    ]
   }
 }
