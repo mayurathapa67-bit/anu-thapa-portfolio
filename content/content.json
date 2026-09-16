@@ -152,76 +152,11 @@
   },
   "services": [
     {
-      "title": "API Documentation",
-      "description": "Complete, accurate, and developer-friendly API references built from OpenAPI specs with runnable examples and auth guidance.",
-      "icon": "api",
-      "price": "From $1,200",
-      "features": [
-        "OpenAPI / Swagger specs",
-        "Authentication flows",
-        "Code samples in 3+ languages",
-        "Error reference & status codes"
-      ]
-    },
-    {
-      "title": "Software Documentation",
-      "description": "Architecture overviews, system design docs, and internal engineering guides that scale with your codebase.",
-      "icon": "software",
-      "price": "From $1,500",
-      "features": [
-        "Architecture diagrams",
-        "System design docs",
-        "Runbooks & playbooks",
-        "Onboarding guides"
-      ]
-    },
-    {
-      "title": "User Guides & Manuals",
-      "description": "Clear, task-oriented documentation that reduces support load and improves product adoption.",
-      "icon": "manual",
-      "price": "From $900",
-      "features": [
-        "Step-by-step tutorials",
-        "Contextual help",
-        "In-app tooltips",
-        "Localization-ready"
-      ]
-    },
-    {
-      "title": "Technical Editing",
-      "description": "A rigorous editorial pass on existing docs for clarity, consistency, and technical accuracy.",
+      "title": "Academic Assignment Support",
+      "description": "Comprehensive support for students with assignments, reports, research, referencing, presentations, proofreading, formatting, CVs and other academic or professional documents. I provide friendly, personalised support based on each student's requirements, deadline and budget.",
       "icon": "edit",
-      "price": "From $600",
-      "features": [
-        "Style guide alignment",
-        "Terminology consistency",
-        "Structure & IA review",
-        "Grammar & precision"
-      ]
-    },
-    {
-      "title": "Content Strategy",
-      "description": "A documentation roadmap, information architecture, and contributor workflows for growing teams.",
-      "icon": "strategy",
-      "price": "From $1,800",
-      "features": [
-        "Content audit",
-        "Information architecture",
-        "Docs-as-Code setup",
-        "Contribution model"
-      ]
-    },
-    {
-      "title": "Documentation Audits",
-      "description": "An expert assessment of your docs with a prioritized backlog of improvements and quick wins.",
-      "icon": "audit",
-      "price": "From $750",
-      "features": [
-        "Heuristic evaluation",
-        "Findability audit",
-        "Tone & voice review",
-        "Prioritized roadmap"
-      ]
+      "price": "Affordable & Flexible Pricing",
+      "features": []
     }
   ],
   "portfolio": [
